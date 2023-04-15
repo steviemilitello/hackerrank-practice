@@ -18,7 +18,8 @@
 
 <h1>:memo: Table of Contents</h1>
 
-| #   | Name                                        | Status                   |
-| --- | ------------------------------------------- | ------------------------ |
-| 001 | [Solve Me First](001-solve-me-first.js)     | &emsp;:white_check_mark: |
-| 002 | [Simple Array Sum](002-simple-array-sum.js) | &emsp;:white_check_mark: |
+| #   | Name                                                | Status                   |
+| --- | --------------------------------------------------- | ------------------------ |
+| 001 | [Solve Me First](001-solve-me-first.js)             | &emsp;:white_check_mark: |
+| 002 | [Simple Array Sum](002-simple-array-sum.js)         | &emsp;:white_check_mark: |
+| 003 | [Compare the Triplets](003-compare-the-triplets.js) | &emsp;:white_check_mark: |
