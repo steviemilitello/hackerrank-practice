@@ -24,3 +24,4 @@
 | 002 | [Simple Array Sum](002-simple-array-sum.js)         | &emsp;:white_check_mark: |
 | 003 | [Compare the Triplets](003-compare-the-triplets.js) | &emsp;:white_check_mark: |
 | 004 | [A Very Big Sum](004-a-very-big-sum.js)             | &emsp;:white_check_mark: |
+| 005 | [Diagonal Difference](005-diagonal-difference.js)   | &emsp;:white_check_mark: |
