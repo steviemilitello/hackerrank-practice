@@ -23,3 +23,4 @@
 | 001 | [Solve Me First](001-solve-me-first.js)             | &emsp;:white_check_mark: |
 | 002 | [Simple Array Sum](002-simple-array-sum.js)         | &emsp;:white_check_mark: |
 | 003 | [Compare the Triplets](003-compare-the-triplets.js) | &emsp;:white_check_mark: |
+| 004 | [A Very Big Sum](004-a-very-big-sum.js)             | &emsp;:white_check_mark: |
