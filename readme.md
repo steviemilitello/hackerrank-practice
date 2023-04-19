@@ -27,3 +27,4 @@
 | 005 | [Diagonal Difference](005-diagonal-difference.js)   | &emsp;:white_check_mark: |
 | 006 | [Plus Minus](006-plus-minus.js)                     | &emsp;:white_check_mark: |
 | 007 | [Staircase](007-staircase.js)                       | &emsp;:white_check_mark: |
+| 008 | [Min-Max Sum](008-min-max-sum.js)                   | &emsp;:white_check_mark: |
