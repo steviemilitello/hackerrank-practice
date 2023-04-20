@@ -18,7 +18,7 @@
 
 <h1>:memo: Table of Contents</h1>
 
-| #   | Name                                                | Status                   |
+| #   | <div style="width:350px">Name</div>                 | Status                   |
 | --- | --------------------------------------------------- | ------------------------ |
 | 001 | [Solve Me First](001-solve-me-first.js)             | &emsp;:white_check_mark: |
 | 002 | [Simple Array Sum](002-simple-array-sum.js)         | &emsp;:white_check_mark: |
