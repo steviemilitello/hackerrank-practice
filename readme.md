@@ -30,4 +30,4 @@
 | 008 | [Min-Max Sum](008-min-max-sum.js)                   | &emsp;:white_check_mark: |
 | 009 | [Birthday Cake Candles](009-birthday-cake-candles)  | &emsp;:white_check_mark: |
 | 010 | [Time Conversion](010-time-conversion.js)           | &emsp;:white_check_mark: |
-
+| 011 | [Grading Students](011-grading-students.js)         | &emsp;:white_check_mark: |
