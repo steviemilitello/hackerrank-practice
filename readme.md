@@ -18,17 +18,18 @@
 
 <h1>:memo: Table of Contents</h1>
 
-| #   | Name                                                | Status                   |
-| --- | --------------------------------------------------- | ------------------------ |
-| 001 | [Solve Me First](001-solve-me-first.js)             | &emsp;:white_check_mark: |
-| 002 | [Simple Array Sum](002-simple-array-sum.js)         | &emsp;:white_check_mark: |
-| 003 | [Compare the Triplets](003-compare-the-triplets.js) | &emsp;:white_check_mark: |
-| 004 | [A Very Big Sum](004-a-very-big-sum.js)             | &emsp;:white_check_mark: |
-| 005 | [Diagonal Difference](005-diagonal-difference.js)   | &emsp;:white_check_mark: |
-| 006 | [Plus Minus](006-plus-minus.js)                     | &emsp;:white_check_mark: |
-| 007 | [Staircase](007-staircase.js)                       | &emsp;:white_check_mark: |
-| 008 | [Min-Max Sum](008-min-max-sum.js)                   | &emsp;:white_check_mark: |
-| 009 | [Birthday Cake Candles](009-birthday-cake-candles)  | &emsp;:white_check_mark: |
-| 010 | [Time Conversion](010-time-conversion.js)           | &emsp;:white_check_mark: |
-| 011 | [Grading Students](011-grading-students.js)         | &emsp;:white_check_mark: |
-| 012 | [Apple and Orange](012-apple-and-orange)            | &emsp;:white_check_mark: |
+| #   | Name                                                  | Status                   |
+| --- | ----------------------------------------------------- | ------------------------ |
+| 001 | [Solve Me First](001-solve-me-first.js)               | &emsp;:white_check_mark: |
+| 002 | [Simple Array Sum](002-simple-array-sum.js)           | &emsp;:white_check_mark: |
+| 003 | [Compare the Triplets](003-compare-the-triplets.js)   | &emsp;:white_check_mark: |
+| 004 | [A Very Big Sum](004-a-very-big-sum.js)               | &emsp;:white_check_mark: |
+| 005 | [Diagonal Difference](005-diagonal-difference.js)     | &emsp;:white_check_mark: |
+| 006 | [Plus Minus](006-plus-minus.js)                       | &emsp;:white_check_mark: |
+| 007 | [Staircase](007-staircase.js)                         | &emsp;:white_check_mark: |
+| 008 | [Min-Max Sum](008-min-max-sum.js)                     | &emsp;:white_check_mark: |
+| 009 | [Birthday Cake Candles](009-birthday-cake-candles.js) | &emsp;:white_check_mark: |
+| 010 | [Time Conversion](010-time-conversion.js)             | &emsp;:white_check_mark: |
+| 011 | [Grading Students](011-grading-students.js)           | &emsp;:white_check_mark: |
+| 012 | [Apple and Orange](012-apple-and-orange.js)           | &emsp;:white_check_mark: |
+| 013 | [Number Line Jumps](012-number-line-jumps.js)         | &emsp;:white_check_mark: |
