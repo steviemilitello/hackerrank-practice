@@ -32,4 +32,4 @@
 | 010 | [Time Conversion](010-time-conversion.js)             | &emsp;:white_check_mark: |
 | 011 | [Grading Students](011-grading-students.js)           | &emsp;:white_check_mark: |
 | 012 | [Apple and Orange](012-apple-and-orange.js)           | &emsp;:white_check_mark: |
-| 013 | [Number Line Jumps](012-number-line-jumps.js)         | &emsp;:white_check_mark: |
+| 013 | [Number Line Jumps](013-number-line-jumps.js)         | &emsp;:white_check_mark: |
