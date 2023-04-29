@@ -35,3 +35,4 @@
 | 013 | [Number Line Jumps](013-number-line-jumps.js)         | &emsp;:white_check_mark: |
 | 014 | [Between Two Sets](014-between-two-sets.js)           | &emsp;:white_check_mark: |
 | 015 | [Breaking the Record](015-breaking-the-records.js)    | &emsp;:white_check_mark: |
+| 016 | [Subarray Division](016-subarray-division.js)         | &emsp;:white_check_mark: |
