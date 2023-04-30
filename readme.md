@@ -37,3 +37,4 @@
 | 015 | [Breaking the Record](015-breaking-the-records.js)    | &emsp;:white_check_mark: |
 | 016 | [Subarray Division](016-subarray-division.js)         | &emsp;:white_check_mark: |
 | 017 | [Divisible Sum Pairs](017-divisible-sum-pairs.js)     | &emsp;:white_check_mark: |
+| 018 | [Migratory Birds](018-migratory-birds.js)             | &emsp;:white_check_mark: |
