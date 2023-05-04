@@ -40,3 +40,4 @@
 | 018 | [Migratory Birds](018-migratory-birds.js)             | &emsp;:white_check_mark: |
 | 019 | [Day of the Programmer](019-day-of-the-programmer.js) | &emsp;:white_check_mark: |
 | 020 | [Bill Division](020-bill-division.js)                 | &emsp;:white_check_mark: |
+| 021 | [Sales by Match](021-sales-by-match.js)               | &emsp;:white_check_mark: |
