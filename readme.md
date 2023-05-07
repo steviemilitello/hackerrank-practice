@@ -41,3 +41,4 @@
 | 019 | [Day of the Programmer](019-day-of-the-programmer.js) | &emsp;:white_check_mark: |
 | 020 | [Bill Division](020-bill-division.js)                 | &emsp;:white_check_mark: |
 | 021 | [Sales by Match](021-sales-by-match.js)               | &emsp;:white_check_mark: |
+| 022 | [Drawing Book](022-drawing-book.js)                   | &emsp;:white_check_mark: |
