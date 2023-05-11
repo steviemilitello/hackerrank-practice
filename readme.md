@@ -16,6 +16,13 @@
 - A repo to store completed HackerRank problems
 - The purpose of this repo is to keep track of the problem I have completed as well as share with others my solutions
 
+<h1>Badges</h1>
+
+| #   | Name                    | Status                   |
+| --- | ----------------------- | ------------------------ |
+| 001 | Problem Solving: Bronze | &emsp;:white_check_mark: |
+| 002 | Problem Solving: Silver | In Progress              |
+
 <h1>:memo: Table of Contents</h1>
 
 | #   | Name                                                  | Difficulty | Status                   |
