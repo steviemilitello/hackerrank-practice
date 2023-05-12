@@ -1,5 +1,8 @@
  <div align="center">
    <h1>:book: HackerRank Practice :book:</h1>
+   <a href="https://www.hackerrank.com/steviemilitello">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+   </a>
    <a href="http://steviecodes.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio_-darkgreen?style=for-the-badge&logo=medium"/>
    </a>
@@ -9,6 +12,7 @@
    <a href="mailto:steviemilitello@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&``logoColor=white">
    </a>
+   </a> 
 </div>
 
 <h1>:computer: Description</h1>
