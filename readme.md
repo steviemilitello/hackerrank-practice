@@ -42,3 +42,4 @@
 | 020 | [Bill Division](020-bill-division.js)                 | &emsp;:white_check_mark: |
 | 021 | [Sales by Match](021-sales-by-match.js)               | &emsp;:white_check_mark: |
 | 022 | [Drawing Book](022-drawing-book.js)                   | &emsp;:white_check_mark: |
+| 023 | [Counting Valleys](023-counting-valleys.js)           | &emsp;:white_check_mark: |
