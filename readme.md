@@ -20,7 +20,7 @@
 - A repo to store completed HackerRank problems
 - The purpose of this repo is to keep track of the problem I have completed as well as share with others my solutions
 
-<h1>Badges</h1>
+<h1>:trophy: Badges</h1>
 
 | #   | Name                    | Status                   |
 | --- | ----------------------- | ------------------------ |
