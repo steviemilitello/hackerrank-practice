@@ -55,3 +55,4 @@
 | 022 | [Drawing Book](022-drawing-book.js)                   | Easy       | &emsp;:white_check_mark: |
 | 023 | [Counting Valleys](023-counting-valleys.js)           | Easy       | &emsp;:white_check_mark: |
 | 024 | [Electronics Shop](024-electronics-shop.js)           | Easy       | &emsp;:white_check_mark: |
+| 025 | [Cats and a Mouse](025-cats-and-a-mouse.js)           | Easy       | &emsp;:white_check_mark: |
